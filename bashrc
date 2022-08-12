@@ -20,3 +20,6 @@ alias l='ls -CF'
 alias c=clear
 alias br='git branch -vv'
 alias st='git status'
+alias edit-bash='vim $HOME/.bashrc'
+alias reload-bash='. $HOME/.bashrc'
+alias edit-vim='vim $HOME/.vimrc'
